@@ -1,0 +1,250 @@
+ID: MLA843116615
+Title: Monitor Dell P2419h Led 24  Negro 100v/240v
+Category ID: MLA14407
+Category name: Monitores
+
+ID: MLA740540307
+Title: Servidor Poweredge Dell T40 Xeon E3-1225 8gb 1tb Hd Free Dos
+Category ID: MLA1649
+Category name: PC
+
+ID: MLA663208480
+Title: Notebook Laptop Dell Inspiron I5 16g 256ssd Ubuntu Ram
+Category ID: MLA1652
+Category name: Notebooks
+
+ID: MLA806876188
+Title: Pdu Para Montaje Apc Basic Ap9565 16a 12c13
+Category ID: MLA9913
+Category name: Cables de Alimentación
+
+ID: MLA838441150
+Title: Servidor Poweredge Dell T40 Xeon E3-2224 16gb 1tb Hd Gtia
+Category ID: MLA1649
+Category name: PC
+
+ID: MLA850688285
+Title: Notebook Dell Inspiron I5 256ssd + 1tb 16gb W10 Gforce Ram
+Category ID: MLA1652
+Category name: Notebooks
+
+ID: MLA862050665
+Title: Servidor Poweredge Dell T40 Intel E3-2224 16gb 1tb Hd Cuotas
+Category ID: MLA1649
+Category name: PC
+
+ID: MLA619999038
+Title: Ups Apc 550va 3 Tomas Gtia Oficial 2 Años Estabilizador Y Protector De Tension Con Ahorro De Energia
+Category ID: MLA1720
+Category name: UPS
+
+ID: MLA609116302
+Title: Ups Apc 1500va Con Ahorro De Energa Estabilizador Y Protector De Tension Gtia Oficial Ideal Para Uso Gamer
+Category ID: MLA1720
+Category name: UPS
+
+ID: MLA896718634
+Title: Servidor Poweredge Dell T40 Xeon E3-2224 16gb 2tb Hd Gtia
+Category ID: MLA1649
+Category name: PC
+
+ID: MLA896767232
+Title: Notebook Laptop Dell Inspiron I3 8gb 1tb + 240ssd 15.6 W10 
+Category ID: MLA1652
+Category name: Notebooks
+
+ID: MLA896723362
+Title: Servidor Poweredge Dell T40 Xeon E3-2224 32gb 2tb Hd Gtia
+Category ID: MLA1649
+Category name: PC
+
+ID: MLA609714710
+Title: Ups Apc 900va Back-ups 6 Tomas Estabilizador Y Protector De Tension Gtia Oficial 2años Br900 Para Tv, Play, Pc
+Category ID: MLA1720
+Category name: UPS
+
+ID: MLA896790805
+Title: Notebook Laptop Dell Inspiron I3 16gb 1tb Ubuntu
+Category ID: MLA1652
+Category name: Notebooks
+
+ID: MLA800415301
+Title: Servidor Dell T140 Xeon E3-2124 16gb 2tb Reemplazo T130
+Category ID: MLA1649
+Category name: PC
+
+ID: MLA696009826
+Title: Ups Apc 1000va Online Tower Gtia 2 Años
+Category ID: MLA1720
+Category name: UPS
+
+ID: MLA814217735
+Title: Servidor Dell T140 Xeon E3-2124 32gb 4tb Reemplazo T130
+Category ID: MLA1649
+Category name: PC
+
+ID: MLA870125549
+Title: Notebook Laptop Dell Inspiron I5 16g 256ssd + 1tb Ubuntu Ram
+Category ID: MLA1652
+Category name: Notebooks
+
+ID: MLA665986505
+Title: Servidor Dell T140 Xeon E3-2124 16gb 2tb Reemplazo T130
+Category ID: MLA1649
+Category name: PC
+
+ID: MLA763012088
+Title: Monitor Dell 24 Profesional P2419h 1080 60hz Vertical
+Category ID: MLA14407
+Category name: Monitores
+
+ID: MLA685442543
+Title: Switch Cisco Sg110-24 24 Puertos Gigabit Rack (ex. Sg100-24)
+Category ID: MLA1708
+Category name: Switches
+
+ID: MLA675284092
+Title: Router Cisco Dual Gigabit Wan 4 Puertos - Gtia Oficial
+Category ID: MLA430901
+Category name: Routers
+
+ID: MLA833705652
+Title: Notebook Laptop Dell Inspiron I5 10g 16g 256gb Win10 Ram
+Category ID: MLA1652
+Category name: Notebooks
+
+ID: MLA806652269
+Title: Monitor Dell 27 Profesional P2719h 1080 60hz Vertical Fhd
+Category ID: MLA14407
+Category name: Monitores
+
+ID: MLA685428555
+Title: Switch Cisco 16 Puertos Port 10/100/1000 Rack (ex Sg100-16) Para Hogar Y Empresa - Garantia Oficial - Factura A Y B
+Category ID: MLA1708
+Category name: Switches
+
+ID: MLA604049998
+Title: Ups Apc Easy Bv650i-ar 650va Gtia Oficial 2 Años Bv650
+Category ID: MLA1720
+Category name: UPS
+
+ID: MLA609714711
+Title: Ups Apc Back-ups Pro 550va 230 Estabilizador Y Protector De Tensión Con Ahorro De Energia Gtia Oficial Br550
+Category ID: MLA1720
+Category name: UPS
+
+ID: MLA870125306
+Title: Notebook Laptop Dell Inspiron I5 32g 256ssd + 480ssd Ubuntu
+Category ID: MLA1652
+Category name: Notebooks
+
+ID: MLA790641629
+Title: Monitor Dell 24 Profesional P2419h - Modelo Nuevo! Ex-p2417h
+Category ID: MLA14407
+Category name: Monitores
+
+ID: MLA671611260
+Title: Ups Apc Br900g-ar 900va 6 Tomas Estabilizador Gtia 2 Años
+Category ID: MLA1720
+Category name: UPS
+
+ID: MLA763803562
+Title: Switch 24p Cisco Sg550x-24 Giga Stackable Sg550x-
+Category ID: MLA1708
+Category name: Switches
+
+ID: MLA896769972
+Title: Notebook Laptop Dell Inspiron I3 12gb 1tb + 240 Ssd15.6 W10
+Category ID: MLA1652
+Category name: Notebooks
+
+ID: MLA685442693
+Title: Switch Cisco 24 Puertos Gigabit Rack 10/100/1000
+Category ID: MLA1708
+Category name: Switches
+
+ID: MLA878110165
+Title: Notebook Laptop Dell Inspiron I5 16g 256ssd + 240ssd Ubuntu
+Category ID: MLA1652
+Category name: Notebooks
+
+ID: MLA846968526
+Title: Ups Apc Bv1000 Estabilza Y Protege Tensión Entrega Inmediata
+Category ID: MLA1720
+Category name: UPS
+
+ID: MLA767806488
+Title: Switch 24p Cisco Sg350-28p Poe 10/100/1000 Sg350-28p-k
+Category ID: MLA1708
+Category name: Switches
+
+ID: MLA863064747
+Title: Router Linksys Wifi Ea7300 Mimo Smart Router Ac1750
+Category ID: MLA430901
+Category name: Routers
+
+ID: MLA837797303
+Title: Notebook Laptop Dell Inspiron I3 16gb 1tb 15,6 Fhd Win 10
+Category ID: MLA1652
+Category name: Notebooks
+
+ID: MLA878634067
+Title: Ups Apc Bv800i - Ahora En Cuotas Sin Interes
+Category ID: MLA1720
+Category name: UPS
+
+ID: MLA678026676
+Title: Switch Cisco 24 Puertos 10/100 Rackeable No Adm Para Hogar Y Empresa - Garantia Oficial - Factura A Y B
+Category ID: MLA1708
+Category name: Switches
+
+ID: MLA673321805
+Title: Ups Apc 1500va Estabilizador Y Protector De Tension - Alto Rendimiento Para Pc De Hogar Y Oficina Gtia 2años
+Category ID: MLA1720
+Category name: UPS
+
+ID: MLA839633052
+Title: Ups Apc Easy Bv500i-ar 500va Bv500 Gtia Oficial 2 Años
+Category ID: MLA1720
+Category name: UPS
+
+ID: MLA833393643
+Title: Notebook Laptop Dell Inspiron I5 10g 8g 256gb Ubuntu Oferta
+Category ID: MLA1652
+Category name: Notebooks
+
+ID: MLA614718493
+Title: Ups Apc Bx1100ci Para Tv, Play, Audio, 6 Tomas Estabilizador
+Category ID: MLA1720
+Category name: UPS
+
+ID: MLA861494565
+Title: Ups Apc Bv800 - Protege Tus Equipos Con Apc
+Category ID: MLA1720
+Category name: UPS
+
+ID: MLA794751330
+Title: Router Cisco Rv042 Dual Gigabit Wan 50vpn Rv042g 4 Port
+Category ID: MLA430901
+Category name: Routers
+
+ID: MLA640303035
+Title: Ups Apc Br1500g 1500va Estabilizador  Gtia 2 Años Br1500g-ar
+Category ID: MLA1720
+Category name: UPS
+
+ID: MLA827761303
+Title: Notebook Dell Latitude 3510 I5 16gb 1tb 15,6 Win10p 
+Category ID: MLA1652
+Category name: Notebooks
+
+ID: MLA689148569
+Title: Switch 8 Bocas Cisco 8 Puertos 10/100mbps Para Hogar Y Empresa - Garantia Oficial - Factura A Y B
+Category ID: MLA1708
+Category name: Switches
+
+ID: MLA609115444
+Title: Ups Apc De Alto Rendimiento 1200va Estabilizador Y Protector De Tension Garantía Oficial De 2 Años Ups
+Category ID: MLA1720
+Category name: UPS
+
