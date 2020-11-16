@@ -1,5 +1,5 @@
 El script realizado con php utiliza la API de MercadoLibre para obtener todos los artículos publicados en la plataforma por uno o varios vendedores  
-  Los datos que se obtienen de cada artículo son:
+  Los datos que se obtienen de cada artículo son:  
   •	ID  
   •	title   
   •	category_id  
